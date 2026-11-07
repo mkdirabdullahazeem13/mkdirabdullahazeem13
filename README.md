@@ -27,4 +27,4 @@ Python · PySpark · pandas · Streamlit · pytest · Git and GitHub
 
 ## Get in touch
 
-[LinkedIn link] · [email address]
+[[LinkedIn link]](https://www.linkedin.com/in/abdullahkhadri13/) · abdullahazeem13@gmail.com
